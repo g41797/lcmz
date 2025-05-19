@@ -1,0 +1,3 @@
+[submodule "src/submodules/lcm"]
+	path = src/submodules/lcm
+	url = https://github.com/lcm-proj/lcm

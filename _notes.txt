@@ -1,0 +1,11 @@
+LCM
+    https://github.com/lcm-proj/lcm
+
+LCM docs
+    https://lcm-proj.github.io/lcm/
+
+Submodules
+    Add
+        git submodule add https://github.com/lcm-proj/lcm src/submodules/lcm
+    Remove
+    git rm <path-to-submodule> [-r], and commit.
